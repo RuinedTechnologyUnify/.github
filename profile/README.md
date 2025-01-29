@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=𝗥eforged𝗧echnology𝗨nity&fontSize=50&fontAlignY=40&fontColor=FFFFFF&color=0:4f4dff,100:de47cc"></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=RTU%20Studio&fontSize=50&fontAlignY=40&fontColor=FFFFFF&color=0:4f4dff,100:de47cc"></a>
   <p><strong>원하는 것을 구현합니다.</strong></p>
   <br>
 <p>
